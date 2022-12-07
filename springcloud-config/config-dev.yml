@@ -1,4 +1,4 @@
 config:
-  info: "master branch,springcloud-config/config-dev.yml version=123"
+  info: "master branch,springcloud-config/config-dev.yml version=233"
   age: "1"
   version: "0.0.1"
